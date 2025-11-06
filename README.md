@@ -1,3 +1,5 @@
+<img width="1589" height="1072" alt="image" src="https://github.com/user-attachments/assets/6ba8cdf8-fd8b-4419-b3cc-bc719b96832a" />
+
 # 💱 Currency Converter
 
 A minimal and modern currency converter built with **HTML, CSS, and JavaScript**.  
